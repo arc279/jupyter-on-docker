@@ -65,7 +65,7 @@ pyzmq==17.1.2
 qtconsole==4.4.1
 recommonmark==0.4.0
 requests==2.19.1
-rsa==3.4.2
+rsa==4.7
 ruamel.yaml==0.15.63
 s3transfer==0.1.13
 scikit-learn==0.19.2
